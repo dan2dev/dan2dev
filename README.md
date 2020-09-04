@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://dan2.dev/static/dan2dev.svg" height="80">
+  <a href="https://dan2.dev">
+    <img src="https://dan2.dev/static/dan2dev.svg" height="80">
+  </a>
 </p>
-
-### Hi there 👋
 
 <!--
 **dan2dev/dan2dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
