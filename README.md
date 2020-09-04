@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://dan2.dev/static/dan2dev.svg" height="80">
+</p>
+
 ### Hi there 👋
 
 <!--
