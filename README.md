@@ -8,4 +8,4 @@ I’m a technologist and full‑stack web & mobile developer, passionate about b
 - **Instagram:** https://instagram.com/dan2dev  
 - **LinkedIn:** https://linkedin.com/in/dan2dev  
 - **Threads:** https://www.threads.com/@dan2dev  
-- **Bluesky:** https://bsky.social/profile/dan2dev.bsky.social  
+- **Bluesky:** https://bsky.app/profile/dan2dev.bsky.social
