@@ -1,21 +1,11 @@
+# Hi, I’m Danilo Castro (dan2dev) 👋
 
-<p align="center">
-  <a href="https://dan2.dev">
-    <img src="https://dan2.dev/static/dan2dev.svg" height="80">
-  </a>
-</p>
+### About me
+I’m a technologist and full‑stack web & mobile developer, passionate about building clean and scalable solutions. Proud contributor to open‑source and recognized as an Arctic Code Vault Contributor.
 
-<!--
-**dan2dev/dan2dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+- **X (Twitter):** https://twitter.com/dan2dev  
+- **Instagram:** https://instagram.com/dan2dev  
+- **LinkedIn:** https://linkedin.com/in/dan2dev  
+- **Threads:** https://www.threads.com/@dan2dev  
+- **Bluesky:** https://bsky.social/profile/dan2dev.bsky.social  
